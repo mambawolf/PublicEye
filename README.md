@@ -1,2 +1,2 @@
 # PublicEye
-A Portal for singrauli police
+A portal for police and public to effectively manage and implement the Lockdown.
